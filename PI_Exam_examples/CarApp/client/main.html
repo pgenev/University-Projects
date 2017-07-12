@@ -1,0 +1,31 @@
+<head>
+    <title>CarApp</title>
+</head>
+
+<body>
+    <h1>Търсене на автомобил</h1>
+  
+    {{> searchCar}}
+  
+ 
+</body>
+
+<template name='searchCar'>
+    <label>Модел</label><br>
+    <select>
+      <option></option>
+      {{#each carsBrandList}}
+        <option>{{brand}}</option>
+      {{/each}}
+    </select>
+    <br><br>
+    <label>Употребяван</label>
+    <input type="checkbox" id="checkCondition">
+    <br><br>
+    <button class="search">Търси</button>
+
+    <p id="showCars"></p>
+</template>
+
+
+

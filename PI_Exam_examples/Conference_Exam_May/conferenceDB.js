@@ -1,0 +1,1 @@
+Conf = new Mongo.Collection('conf');

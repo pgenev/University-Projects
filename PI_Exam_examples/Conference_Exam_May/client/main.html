@@ -1,0 +1,26 @@
+<head>
+  <title>Conference_Exam_May</title>
+</head>
+
+<body>
+  <h1>Конференция</h1>
+
+  {{> addRecords}}
+</body>
+
+<template name='addRecords'>
+  <form name='addRec'>
+    <lable>Заглавие:</lable>
+    <input type='text' name='title'><br><br>
+    <lable>Автор:</lable>
+    <input type='text' name='author'><br><br>
+    <lable>Ключови думи:</lable>
+    <input type='text' name='words'><br><br>
+    <button>Качи статия</button><br><br>
+    <button class="save">Запис</button><br><br>
+
+    <h1 id="showRecord"></h1>
+  </form>
+ 
+</template>
+

@@ -1,0 +1,28 @@
+<head>
+  <title>CarRegistration</title>
+</head>
+
+<body>
+  <h1>Регистрация на автомобил</h1>
+
+  {{> carReg}}
+
+</body>
+
+<template name="carReg">
+  <form id="registrationForm">
+    <label>Марка</label> <input id="brand" type="text"/>
+    <br><br>
+    <label>Модел</label> <input id="model" type="text"/>
+    <br><br>
+    <label>Година</label> <input id="year" type="number" min="1900" max="2017"/>
+    <br><br>
+    <label>Обем на двигателя</label> <input id="engineVolume" type="number" min="1" max="6"/>
+    <br><br>
+    <button class='register'>Регистрирай автомобила</button>
+  </form>
+  
+  <h1 id="showRegCar"></h1>
+
+</template>
+

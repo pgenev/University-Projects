@@ -1,0 +1,101 @@
+c:\users\statham\documents\visual studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+c:\users\statham\documents\visual studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+c:\users\statham\documents\visual studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+c:\users\statham\documents\visual studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Documents\Visual Studio 2012\Projects\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Desktop\New folder\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Desktop\Exercise 4\Exercise4_Working_Edition\Exercise3\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Desktop\Exercise4\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\Exercise4\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\Exercise4\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\PS_53_FilipGenevnew\PS_53_FilipGenev\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AutoBox.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.InfoForm.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.GroupsForm.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.RegistrationForm.resources
+C:\Users\Statham\Desktop\lastEdition\PS_53_FilipGenev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache

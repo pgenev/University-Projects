@@ -1,0 +1,62 @@
+Requirements:
+Version Python : 2.7.6
+
+Използваме  subprocess - python  библиотека, която е включена в python 2.7.6
+
+Използваме командите предоставени от VirtualBox  - VBoxManage
+
+1.Показва вскички машини:
+VBoxManage list
+
+аргументи :
+- vms - показва всички машини
+
+- runningvms  - показва всички работещи машини
+
+2.Създаване на машина
+VBoxManage createvm --name "Името на машината" --ostype Windows81_64 --register
+
+Важно:  Името на машината - трябва да е уникално
+- Трябва да се регистрира 
+
+3. Показване на всички видове машини
+ VBoxManage list ostypes - видовете оерационни системи, които се поддържат.
+ 
+4. Задаване на памет и нетворк интерфайс и други аргументи в зависимост от машината
+VBoxManage modifyvm "Името на машината" --memory 2048 --acpi on --boot1 dvd --nic1 nat 
+
+5. Създаване на виртуален хард диск
+VBoxManage createhd --filename "Пътя до файла/иметоНаФайла.vdi" --size 25000
+
+Параметри:
+- filename - името на файла с разширение
+- size - размера на виртуалния хард диск
+
+6. Добавяне на IDE Controller към създадената виртуална машина
+
+VBoxManage storagectl "Името на виртуалната машина" --name "IDE Controller" --add ide --controller PIIX4
+
+7. Поставяне на създания диск към виртуалната машина
+
+VBoxManage storageattach "Името на виртуалната машина" --storagectl "IDE Controller"
+      --port 0 --device 0 --type hdd --medium "Името на виртуални диск с разширение - .vdi"
+
+8. Закачане на ISO файла, който съдържа операциооната система
+
+VBoxManage storageattach "Името на виртуалната машина" --storagectl "IDE Controller"
+      --port 0 --device 1 --type dvddrive --medium "Пътят към ISO файла"
+
+9.VRDP support - Конфигуриране на порта през, който ще се свързва към машинта използвайки VDRP
+
+VBoxManage modifyvm "Името на виртуалната машина" --vrdeport 5000 (порта е който сме оказали)
+
+10. Пренасочване на порта на системата към порта VirtualBox, който сме дефинирали в горната команда
+
+VBoxManage modifyvm "Името на виртуалната машина" --natpf1 "Името на пренасочването,tcp,,2222,,22" от порт към порт/ оставяме празни места за всяко ип да може да достъпи машинат
+
+	  
+00. Стартиране на виртуалната машина
+VBoxHeadless --startvm "Името на виртуалната машина" --type headless
+
+ 
+ 
